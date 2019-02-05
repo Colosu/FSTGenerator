@@ -14,8 +14,8 @@
 using namespace std;
 
 #define NREP 900
-#define MAX_STATES 25
-#define MIN_STATES 25
+#define MAX_STATES 75
+#define MIN_STATES 75
 #define MAX_TRANSITIONS 5 //PER STATE
 #define MIN_TRANSITIONS 5 //PER STATE
 #define NINPUTS 5
